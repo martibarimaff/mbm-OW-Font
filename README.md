@@ -4,3 +4,6 @@ The original Poppins font (designed by Indian Type Foundry, Jonny Pinhorn, Ninad
 
 
 I made this intending to use it for an Outer Wilds sddm theme. We'll see if anything ever comes out of that.
+
+# NOTE
+i don't know how you are supposed to mantain a font repository, this is probably the wrong way. Maybe i'll learn how to do it properly.
