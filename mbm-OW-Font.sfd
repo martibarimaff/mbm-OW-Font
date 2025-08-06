@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1551825218
-ModificationTime: 1754514697
+ModificationTime: 1754516297
 PfmFamily: 81
 TTFWeight: 500
 TTFWidth: 5
@@ -360,11 +360,11 @@ ShortTable: maxp 16
   3
   2
 EndShort
-LangName: 1033 "" "" "Regular" "" "" "1.000" "" "" "Indian Type Foundry" "Martino Bariselli Maffignoli (Outer Wilds Styling)" "" "https://github.com/martibarimaff/mbm-OW-Font" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" "" "" "Medium" "" "OUTER WILDS"
-OtfFeatName: 'ss04' 1033 "Alternative 2, 3, 6, 9"
-OtfFeatName: 'ss03' 1033 "Alternative ampersand"
-OtfFeatName: 'ss02' 1033 "Double-storey a"
+LangName: 1033 "" "" "Regular" "" "" "1.000" "" "" "" "Martino Bariselli Maffignoli (Outer Wilds Styling)" "" "https://github.com/martibarimaff/mbm-OW-Font" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" "" "" "Medium" "" "OUTER WILDS"
 OtfFeatName: 'ss01' 1033 "Square dots in punctuation marks"
+OtfFeatName: 'ss02' 1033 "Double-storey a"
+OtfFeatName: 'ss03' 1033 "Alternative ampersand"
+OtfFeatName: 'ss04' 1033 "Alternative 2, 3, 6, 9"
 Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: AGL For New Fonts
@@ -4806,6 +4806,7 @@ LayerCount: 2
 Fore
 Refer: 412 768 N 1 0 0 1 228 144 2
 Refer: 76 97 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: Aacute
@@ -4817,6 +4818,7 @@ LayerCount: 2
 Fore
 Refer: 411 769 N 1 0 0 1 229 144 2
 Refer: 76 97 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: Acircumflex
@@ -4828,6 +4830,7 @@ LayerCount: 2
 Fore
 Refer: 414 770 S 1 0 0 1 196 144 2
 Refer: 76 97 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: Atilde
@@ -4839,6 +4842,7 @@ LayerCount: 2
 Fore
 Refer: 413 771 S 1 0 0 1 171 128 2
 Refer: 76 97 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: Adieresis
@@ -4850,6 +4854,7 @@ LayerCount: 2
 Fore
 Refer: 415 776 N 1 0 0 1 193 144 2
 Refer: 76 97 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: Aring
@@ -4861,6 +4866,7 @@ LayerCount: 2
 Fore
 Refer: 416 778 N 1 0 0 1 229.5 149 2
 Refer: 76 97 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: AE
@@ -4954,6 +4960,7 @@ LayerCount: 2
 Fore
 Refer: 412 768 N 1 0 0 1 136 144 2
 Refer: 80 101 N 1 0 0 1 0 0 3
+Validated: 9
 EndChar
 
 StartChar: Eacute
@@ -4965,6 +4972,7 @@ LayerCount: 2
 Fore
 Refer: 411 769 S 1 0 0 1 157 144 2
 Refer: 80 101 N 1 0 0 1 0 0 3
+Validated: 9
 EndChar
 
 StartChar: Ecircumflex
@@ -4976,6 +4984,7 @@ LayerCount: 2
 Fore
 Refer: 414 770 S 1 0 0 1 114 144 2
 Refer: 80 101 N 1 0 0 1 0 0 3
+Validated: 9
 EndChar
 
 StartChar: Edieresis
@@ -4987,6 +4996,7 @@ LayerCount: 2
 Fore
 Refer: 415 776 S 1 0 0 1 111 134 2
 Refer: 80 101 N 1 0 0 1 0 0 3
+Validated: 9
 EndChar
 
 StartChar: Igrave
@@ -4998,6 +5008,7 @@ LayerCount: 2
 Fore
 Refer: 412 768 N 1 0 0 1 11 144 2
 Refer: 243 305 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: Iacute
@@ -5009,6 +5020,7 @@ LayerCount: 2
 Fore
 Refer: 411 769 S 1 0 0 1 12 144 2
 Refer: 243 305 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: Icircumflex
@@ -5020,6 +5032,7 @@ LayerCount: 2
 Fore
 Refer: 414 770 S 1 0 0 1 -21 144 2
 Refer: 243 305 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: Idieresis
@@ -5031,6 +5044,7 @@ LayerCount: 2
 Fore
 Refer: 415 776 N 1 0 0 1 -24 144 2
 Refer: 243 305 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: Eth
@@ -5080,6 +5094,7 @@ LayerCount: 2
 Fore
 Refer: 413 771 S 1 0 0 1 182.5 128 2
 Refer: 89 110 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: Ograve
@@ -5091,6 +5106,7 @@ LayerCount: 2
 Fore
 Refer: 412 768 N 1 0 0 1 311 144 2
 Refer: 90 111 N 1 0 0 1 0 0 3
+Validated: 5
 EndChar
 
 StartChar: Oacute
@@ -5102,6 +5118,7 @@ LayerCount: 2
 Fore
 Refer: 411 769 N 1 0 0 1 282 144 2
 Refer: 90 111 N 1 0 0 1 0 0 3
+Validated: 5
 EndChar
 
 StartChar: Ocircumflex
@@ -5113,6 +5130,7 @@ LayerCount: 2
 Fore
 Refer: 414 770 S 1 0 0 1 239 144 2
 Refer: 90 111 N 1 0 0 1 0 0 3
+Validated: 5
 EndChar
 
 StartChar: Otilde
@@ -5124,6 +5142,7 @@ LayerCount: 2
 Fore
 Refer: 413 771 S 1 0 0 1 214 138 2
 Refer: 90 111 N 1 0 0 1 0 0 3
+Validated: 5
 EndChar
 
 StartChar: Odieresis
@@ -5135,6 +5154,7 @@ LayerCount: 2
 Fore
 Refer: 415 776 S 1 0 0 1 236 124 2
 Refer: 90 111 N 1 0 0 1 0 0 3
+Validated: 5
 EndChar
 
 StartChar: multiply
@@ -5218,6 +5238,7 @@ LayerCount: 2
 Fore
 Refer: 412 768 N 1 0 0 1 224.5 144 2
 Refer: 96 117 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: Uacute
@@ -5229,6 +5250,7 @@ LayerCount: 2
 Fore
 Refer: 411 769 N 1 0 0 1 225.5 144 2
 Refer: 96 117 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: Ucircumflex
@@ -5240,6 +5262,7 @@ LayerCount: 2
 Fore
 Refer: 414 770 S 1 0 0 1 192.5 144 2
 Refer: 96 117 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: Udieresis
@@ -5251,6 +5274,7 @@ LayerCount: 2
 Fore
 Refer: 415 776 S 1 0 0 1 189.5 134 2
 Refer: 96 117 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: Yacute
@@ -5262,6 +5286,7 @@ LayerCount: 2
 Fore
 Refer: 68 89 N 1 0 0 1 0 0 0
 Refer: 126 180 N 1 0 0 1 195 145 2
+Validated: 1
 EndChar
 
 StartChar: Thorn
@@ -5356,6 +5381,7 @@ LayerCount: 2
 Fore
 Refer: 412 768 N 1 0 0 1 228 144 2
 Refer: 76 97 N 1 0 0 1 0 0 3
+Validated: 1
 Substitution2: "'ss02' Style Set 2 lookup 21 subtable" agrave.ss02
 EndChar
 
@@ -5368,6 +5394,7 @@ LayerCount: 2
 Fore
 Refer: 411 769 N 1 0 0 1 229 144 2
 Refer: 76 97 N 1 0 0 1 0 0 3
+Validated: 1
 Substitution2: "'ss02' Style Set 2 lookup 21 subtable" aacute.ss02
 EndChar
 
@@ -5380,6 +5407,7 @@ LayerCount: 2
 Fore
 Refer: 414 770 S 1 0 0 1 196 144 2
 Refer: 76 97 N 1 0 0 1 0 0 3
+Validated: 1
 Substitution2: "'ss02' Style Set 2 lookup 21 subtable" acircumflex.ss02
 EndChar
 
@@ -5392,6 +5420,7 @@ LayerCount: 2
 Fore
 Refer: 413 771 S 1 0 0 1 171 128 2
 Refer: 76 97 N 1 0 0 1 0 0 3
+Validated: 1
 Substitution2: "'ss02' Style Set 2 lookup 21 subtable" atilde.ss02
 EndChar
 
@@ -5404,6 +5433,7 @@ LayerCount: 2
 Fore
 Refer: 415 776 N 1 0 0 1 193 144 2
 Refer: 76 97 N 1 0 0 1 0 0 3
+Validated: 1
 Substitution2: "'ss02' Style Set 2 lookup 21 subtable" adieresis.ss02
 EndChar
 
@@ -5416,6 +5446,7 @@ LayerCount: 2
 Fore
 Refer: 416 778 N 1 0 0 1 229.5 149 2
 Refer: 76 97 N 1 0 0 1 0 0 3
+Validated: 1
 Substitution2: "'ss02' Style Set 2 lookup 21 subtable" aring.ss02
 EndChar
 
@@ -5510,6 +5541,7 @@ LayerCount: 2
 Fore
 Refer: 412 768 N 1 0 0 1 136 144 2
 Refer: 80 101 N 1 0 0 1 0 0 3
+Validated: 9
 EndChar
 
 StartChar: eacute
@@ -5521,6 +5553,7 @@ LayerCount: 2
 Fore
 Refer: 411 769 S 1 0 0 1 157 144 2
 Refer: 80 101 N 1 0 0 1 0 0 3
+Validated: 9
 EndChar
 
 StartChar: ecircumflex
@@ -5532,6 +5565,7 @@ LayerCount: 2
 Fore
 Refer: 414 770 S 1 0 0 1 114 144 2
 Refer: 80 101 N 1 0 0 1 0 0 3
+Validated: 9
 EndChar
 
 StartChar: edieresis
@@ -5543,6 +5577,7 @@ LayerCount: 2
 Fore
 Refer: 415 776 S 1 0 0 1 111 134 2
 Refer: 80 101 N 1 0 0 1 0 0 3
+Validated: 9
 EndChar
 
 StartChar: igrave
@@ -5554,6 +5589,7 @@ LayerCount: 2
 Fore
 Refer: 412 768 N 1 0 0 1 11 144 2
 Refer: 243 305 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: iacute
@@ -5565,6 +5601,7 @@ LayerCount: 2
 Fore
 Refer: 411 769 S 1 0 0 1 12 144 2
 Refer: 243 305 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: icircumflex
@@ -5576,6 +5613,7 @@ LayerCount: 2
 Fore
 Refer: 414 770 S 1 0 0 1 -21 144 2
 Refer: 243 305 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: idieresis
@@ -5587,6 +5625,7 @@ LayerCount: 2
 Fore
 Refer: 415 776 N 1 0 0 1 -24 144 2
 Refer: 243 305 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: eth
@@ -5636,6 +5675,7 @@ LayerCount: 2
 Fore
 Refer: 413 771 S 1 0 0 1 182.5 128 2
 Refer: 89 110 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: ograve
@@ -5647,6 +5687,7 @@ LayerCount: 2
 Fore
 Refer: 412 768 N 1 0 0 1 311 144 2
 Refer: 90 111 N 1 0 0 1 0 0 3
+Validated: 5
 EndChar
 
 StartChar: oacute
@@ -5658,6 +5699,7 @@ LayerCount: 2
 Fore
 Refer: 411 769 N 1 0 0 1 282 144 2
 Refer: 90 111 N 1 0 0 1 0 0 3
+Validated: 5
 EndChar
 
 StartChar: ocircumflex
@@ -5669,6 +5711,7 @@ LayerCount: 2
 Fore
 Refer: 414 770 S 1 0 0 1 239 144 2
 Refer: 90 111 N 1 0 0 1 0 0 3
+Validated: 5
 EndChar
 
 StartChar: otilde
@@ -5680,6 +5723,7 @@ LayerCount: 2
 Fore
 Refer: 413 771 S 1 0 0 1 214 138 2
 Refer: 90 111 N 1 0 0 1 0 0 3
+Validated: 5
 EndChar
 
 StartChar: odieresis
@@ -5691,6 +5735,7 @@ LayerCount: 2
 Fore
 Refer: 415 776 S 1 0 0 1 236 124 2
 Refer: 90 111 N 1 0 0 1 0 0 3
+Validated: 5
 EndChar
 
 StartChar: divide
@@ -5785,6 +5830,7 @@ LayerCount: 2
 Fore
 Refer: 412 768 N 1 0 0 1 224.5 144 2
 Refer: 96 117 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: uacute
@@ -5796,6 +5842,7 @@ LayerCount: 2
 Fore
 Refer: 411 769 N 1 0 0 1 225.5 144 2
 Refer: 96 117 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: ucircumflex
@@ -5807,6 +5854,7 @@ LayerCount: 2
 Fore
 Refer: 414 770 S 1 0 0 1 192.5 144 2
 Refer: 96 117 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: udieresis
@@ -5818,6 +5866,7 @@ LayerCount: 2
 Fore
 Refer: 415 776 S 1 0 0 1 189.5 134 2
 Refer: 96 117 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: yacute
@@ -5829,6 +5878,7 @@ LayerCount: 2
 Fore
 Refer: 68 89 N 1 0 0 1 0 0 0
 Refer: 126 180 N 1 0 0 1 195 145 2
+Validated: 1
 EndChar
 
 StartChar: thorn
@@ -5874,6 +5924,7 @@ LayerCount: 2
 Fore
 Refer: 415 776 N 1 0 0 1 146.5 134 2
 Refer: 100 121 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: Amacron
@@ -5885,6 +5936,7 @@ LayerCount: 2
 Fore
 Refer: 417 772 N 1 0 0 1 156 129 2
 Refer: 76 97 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: amacron
@@ -5896,6 +5948,7 @@ LayerCount: 2
 Fore
 Refer: 417 772 N 1 0 0 1 156 129 2
 Refer: 76 97 N 1 0 0 1 0 0 3
+Validated: 1
 Substitution2: "'ss02' Style Set 2 lookup 21 subtable" amacron.ss02
 EndChar
 
@@ -5908,6 +5961,7 @@ LayerCount: 2
 Fore
 Refer: 418 774 S 1 0 0 1 188.5 157 2
 Refer: 76 97 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: abreve
@@ -5919,6 +5973,7 @@ LayerCount: 2
 Fore
 Refer: 418 774 S 1 0 0 1 188.5 157 2
 Refer: 76 97 N 1 0 0 1 0 0 3
+Validated: 1
 Substitution2: "'ss02' Style Set 2 lookup 21 subtable" abreve.ss02
 EndChar
 
@@ -6666,6 +6721,7 @@ SplineSet
  75 695 l 1,3,-1
  189 695 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0136
@@ -8575,6 +8631,7 @@ LayerCount: 2
 Fore
 Refer: 412 768 N 1 0 0 1 268.5 415.5 2
 Refer: 66 87 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: wgrave
@@ -8586,6 +8643,7 @@ LayerCount: 2
 Fore
 Refer: 412 768 N 1 0 0 1 268.5 174 2
 Refer: 98 119 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: Wacute
@@ -8597,6 +8655,7 @@ LayerCount: 2
 Fore
 Refer: 411 769 N 1 0 0 1 489.5 415.5 2
 Refer: 66 87 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: wacute
@@ -8608,6 +8667,7 @@ LayerCount: 2
 Fore
 Refer: 411 769 N 1 0 0 1 489.5 174 2
 Refer: 98 119 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: Wdieresis
@@ -8619,6 +8679,7 @@ LayerCount: 2
 Fore
 Refer: 415 776 N 1 0 0 1 343.5 385.5 2
 Refer: 66 87 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: wdieresis
@@ -8630,6 +8691,7 @@ LayerCount: 2
 Fore
 Refer: 415 776 N 1 0 0 1 343.5 144 2
 Refer: 98 119 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: uni1EBC
@@ -8641,6 +8703,7 @@ LayerCount: 2
 Fore
 Refer: 413 771 N 1 0 0 1 181 413 2
 Refer: 48 69 N 1 0 0 1 0 0 3
+Validated: 9
 EndChar
 
 StartChar: uni1EBD
@@ -8652,6 +8715,7 @@ LayerCount: 2
 Fore
 Refer: 413 771 N 1 0 0 1 89 158 2
 Refer: 80 101 N 1 0 0 1 0 0 3
+Validated: 9
 EndChar
 
 StartChar: Ygrave
@@ -8663,6 +8727,7 @@ LayerCount: 2
 Fore
 Refer: 412 768 N 1 0 0 1 71.5 415.5 2
 Refer: 68 89 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: ygrave
@@ -8674,6 +8739,7 @@ LayerCount: 2
 Fore
 Refer: 412 768 N 1 0 0 1 71.5 174 2
 Refer: 100 121 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: uni1EF8
@@ -8685,6 +8751,7 @@ LayerCount: 2
 Fore
 Refer: 413 771 N 1 0 0 1 124.5 399.5 2
 Refer: 68 89 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: uni1EF9
@@ -8696,6 +8763,7 @@ LayerCount: 2
 Fore
 Refer: 413 771 N 1 0 0 1 124.5 158 2
 Refer: 100 121 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: endash
@@ -10500,6 +10568,7 @@ SplineSet
  231 796 l 1,3,-1
  231 699 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: gravecomb
@@ -10515,6 +10584,7 @@ SplineSet
  10 796 l 1,3,-1
  231 674 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: tildecomb
@@ -10544,6 +10614,7 @@ SplineSet
  10 608 l 1,25,0
  18 666 18 666 48 695.5 c 128,-1,1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0302
@@ -10561,6 +10632,7 @@ SplineSet
  296 590 l 1,5,-1
  153 676 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0308
@@ -10589,6 +10661,7 @@ SplineSet
  267 620 267 620 242 620 c 256,23,12
  217 620 217 620 199.5 637.5 c 128,-1,13
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni030A
@@ -10617,6 +10690,7 @@ SplineSet
  168 693 168 693 168 715 c 0,23,12
  168 738 168 738 154 752 c 128,-1,13
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0304
@@ -10626,6 +10700,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 121 175 N 1 0 0 1 0 0 0
+Validated: 1
 EndChar
 
 StartChar: uni0306
@@ -10649,6 +10724,7 @@ SplineSet
  311 736 l 2,15,0
  311 673 311 673 270.5 635 c 128,-1,1
 EndSplineSet
+Validated: 1
 EndChar
 EndChars
 EndSplineFont
